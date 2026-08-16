@@ -6,4 +6,6 @@ env/
 .env
 node_modules/
 *.db
-.DS_Store
+.DS_Storetest_results.txt
+auto_eval_results.txt
+test_cases.txt
